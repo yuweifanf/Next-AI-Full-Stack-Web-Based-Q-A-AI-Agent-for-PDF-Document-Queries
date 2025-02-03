@@ -1,4 +1,4 @@
-# Next AI Web Demo 
+# Next AI: Full Stack Web-Based Q&A AI Agent for PDF Document Queries
 
 Considering API key security, we decide not to deploy this web application. If you are interested in it, you can clone this project and deploy it locally.
 
